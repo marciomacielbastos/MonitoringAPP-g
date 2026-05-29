@@ -1,0 +1,132 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 2897 >>
+stream
+BT
+/F2 18 Tf 1 0 0 1 54 760 Tm (MonitoringApp User Agreement) Tj
+/F1 10.5 Tf 1 0 0 1 54 704 Tm (Last updated: May 29, 2026) Tj
+/F1 10.5 Tf 1 0 0 1 54 678 Tm (This User Agreement governs your use of MonitoringApp, a personal health and task monitoring) Tj
+/F1 10.5 Tf 1 0 0 1 54 663 Tm (Android application developed by Marcio Maciel Bastos. By using MonitoringApp, you agree to this) Tj
+/F1 10.5 Tf 1 0 0 1 54 648 Tm (User Agreement. If you do not agree, do not use the app.) Tj
+/F2 13 Tf 1 0 0 1 54 622 Tm (Developer and Contact) Tj
+/F1 10.5 Tf 1 0 0 1 54 586 Tm (Developer: Marcio Maciel Bastos) Tj
+/F1 10.5 Tf 1 0 0 1 54 571 Tm (Contact email: marciomacielbastos@hotmail.com) Tj
+/F1 10.5 Tf 1 0 0 1 54 556 Tm (App package: br.com.marciobastos.monitoringapp) Tj
+/F2 13 Tf 1 0 0 1 54 530 Tm (App Purpose) Tj
+/F1 10.5 Tf 1 0 0 1 54 494 Tm (MonitoringApp helps users organize tasks and view personal wellness signals from compatible) Tj
+/F1 10.5 Tf 1 0 0 1 54 479 Tm (wearable and health services, including Huawei Health Service Kit / Health Kit when authorized) Tj
+/F1 10.5 Tf 1 0 0 1 54 464 Tm (by the user. The app may show task status, activity, heart rate, sleep, stress, SpO2,) Tj
+/F1 10.5 Tf 1 0 0 1 54 449 Tm (temperature, walking distance, and workout intensity information when available.) Tj
+/F1 10.5 Tf 1 0 0 1 54 423 Tm (MonitoringApp is currently an MVP in development/testing and may change over time.) Tj
+/F2 13 Tf 1 0 0 1 54 397 Tm (Health Kit Authorization) Tj
+/F1 10.5 Tf 1 0 0 1 54 361 Tm (MonitoringApp can access Huawei Health data only after you explicitly authorize the requested) Tj
+/F1 10.5 Tf 1 0 0 1 54 346 Tm (Health Kit permissions. You may grant, deny, or revoke permissions through Huawei Health, HMS) Tj
+/F1 10.5 Tf 1 0 0 1 54 331 Tm (Core, Android settings, or applicable Huawei account settings.) Tj
+/F1 10.5 Tf 1 0 0 1 54 305 Tm (If you deny or revoke permissions, some watch signal and health dashboard features may be) Tj
+/F1 10.5 Tf 1 0 0 1 54 290 Tm (unavailable or may show no signal.) Tj
+/F2 13 Tf 1 0 0 1 54 264 Tm (User Responsibilities) Tj
+/F1 10.5 Tf 1 0 0 1 54 228 Tm (You agree to use MonitoringApp only for lawful, personal, and non-commercial purposes. You are) Tj
+/F1 10.5 Tf 1 0 0 1 54 213 Tm (responsible for the accuracy of task information you enter and for how you interpret general) Tj
+/F1 10.5 Tf 1 0 0 1 54 198 Tm (wellness information shown by the app.) Tj
+/F1 10.5 Tf 1 0 0 1 54 172 Tm (You should keep your device, Huawei account, and Android account secure. Do not use) Tj
+/F1 10.5 Tf 1 0 0 1 54 157 Tm (MonitoringApp in a way that interferes with the app, Huawei Health, HMS Core, or any third-party) Tj
+/F1 10.5 Tf 1 0 0 1 54 142 Tm (service.) Tj
+/F2 13 Tf 1 0 0 1 54 116 Tm (Medical Disclaimer) Tj
+/F1 10.5 Tf 1 0 0 1 54 80 Tm (MonitoringApp is not a medical device. It does not diagnose, treat, prevent, monitor, or predict) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 3175 >>
+stream
+BT
+/F1 10.5 Tf 1 0 0 1 54 760 Tm (diseases or medical conditions. The app is intended only for general wellness and personal) Tj
+/F1 10.5 Tf 1 0 0 1 54 745 Tm (productivity awareness.) Tj
+/F1 10.5 Tf 1 0 0 1 54 719 Tm (Health and fitness data shown in MonitoringApp may be incomplete, delayed, inaccurate, or) Tj
+/F1 10.5 Tf 1 0 0 1 54 704 Tm (unavailable. Do not rely on MonitoringApp for medical decisions, emergency decisions, diagnosis,) Tj
+/F1 10.5 Tf 1 0 0 1 54 689 Tm (treatment, or safety-critical monitoring. Always consult qualified healthcare professionals for) Tj
+/F1 10.5 Tf 1 0 0 1 54 674 Tm (medical advice.) Tj
+/F2 13 Tf 1 0 0 1 54 648 Tm (Privacy) Tj
+/F1 10.5 Tf 1 0 0 1 54 612 Tm (MonitoringApp's handling of personal and health data is described in the Privacy Policy:) Tj
+/F1 10.5 Tf 1 0 0 1 54 586 Tm (https://raw.githubusercontent.com/marciomacielbastos/MonitoringAPP-g/main/privacy_policy.pdf) Tj
+/F1 10.5 Tf 1 0 0 1 54 560 Tm (By using Health Kit features, you acknowledge that Huawei Health, HMS Core, and Health Service) Tj
+/F1 10.5 Tf 1 0 0 1 54 545 Tm (Kit may process data under Huawei's own terms and privacy notices.) Tj
+/F2 13 Tf 1 0 0 1 54 519 Tm (No Advertising or Sale of Health Data) Tj
+/F1 10.5 Tf 1 0 0 1 54 483 Tm (MonitoringApp does not use Health Kit data for advertising, cross-app tracking, sale to data) Tj
+/F1 10.5 Tf 1 0 0 1 54 468 Tm (brokers, insurance decisions, credit decisions, or employment decisions.) Tj
+/F2 13 Tf 1 0 0 1 54 442 Tm (Availability and Changes) Tj
+/F1 10.5 Tf 1 0 0 1 54 406 Tm (MonitoringApp is provided as an MVP and may contain bugs or incomplete features. Features may be) Tj
+/F1 10.5 Tf 1 0 0 1 54 391 Tm (changed, suspended, or removed at any time. Health Kit features depend on Huawei Health, HMS) Tj
+/F1 10.5 Tf 1 0 0 1 54 376 Tm (Core, compatible devices, user authorization, network availability, and Huawei service) Tj
+/F1 10.5 Tf 1 0 0 1 54 361 Tm (availability.) Tj
+/F2 13 Tf 1 0 0 1 54 335 Tm (No Warranty) Tj
+/F1 10.5 Tf 1 0 0 1 54 299 Tm (MonitoringApp is provided as is and as available, without warranties of any kind to the maximum) Tj
+/F1 10.5 Tf 1 0 0 1 54 284 Tm (extent permitted by law. The developer does not guarantee that the app will be uninterrupted,) Tj
+/F1 10.5 Tf 1 0 0 1 54 269 Tm (error-free, accurate, secure, or compatible with every device or service configuration.) Tj
+/F2 13 Tf 1 0 0 1 54 243 Tm (Limitation of Liability) Tj
+/F1 10.5 Tf 1 0 0 1 54 207 Tm (To the maximum extent permitted by law, the developer is not liable for indirect, incidental,) Tj
+/F1 10.5 Tf 1 0 0 1 54 192 Tm (consequential, special, punitive, or exemplary damages, or for losses arising from your use of) Tj
+/F1 10.5 Tf 1 0 0 1 54 177 Tm (or inability to use MonitoringApp, including reliance on health or task information displayed by) Tj
+/F1 10.5 Tf 1 0 0 1 54 162 Tm (the app.) Tj
+/F1 10.5 Tf 1 0 0 1 54 136 Tm (Nothing in this User Agreement excludes liability that cannot be excluded under applicable law.) Tj
+/F2 13 Tf 1 0 0 1 54 110 Tm (Termination) Tj
+/F1 10.5 Tf 1 0 0 1 54 74 Tm (You may stop using MonitoringApp at any time by uninstalling the app or clearing app data. The) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 926 >>
+stream
+BT
+/F1 10.5 Tf 1 0 0 1 54 760 Tm (developer may discontinue the app or any feature if necessary for technical, legal, security, or) Tj
+/F1 10.5 Tf 1 0 0 1 54 745 Tm (service availability reasons.) Tj
+/F2 13 Tf 1 0 0 1 54 719 Tm (Changes to This Agreement) Tj
+/F1 10.5 Tf 1 0 0 1 54 683 Tm (This User Agreement may be updated as MonitoringApp evolves. Material changes will be reflected) Tj
+/F1 10.5 Tf 1 0 0 1 54 668 Tm (in an updated agreement document. Continued use of the app after updates means you accept the) Tj
+/F1 10.5 Tf 1 0 0 1 54 653 Tm (updated terms.) Tj
+/F2 13 Tf 1 0 0 1 54 627 Tm (Governing Considerations) Tj
+/F1 10.5 Tf 1 0 0 1 54 591 Tm (This agreement is intended to be interpreted consistently with applicable Brazilian law where) Tj
+/F1 10.5 Tf 1 0 0 1 54 576 Tm (relevant, including consumer and data protection rules that may apply to the developer and) Tj
+/F1 10.5 Tf 1 0 0 1 54 561 Tm (users.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [6 0 R 7 0 R 8 0 R] /Count 3 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000003103 00000 n 
+0000006330 00000 n 
+0000007307 00000 n 
+0000007443 00000 n 
+0000007579 00000 n 
+0000007715 00000 n 
+0000007784 00000 n 
+trailer
+<< /Size 11 /Root 10 0 R >>
+startxref
+7834
+%%EOF
