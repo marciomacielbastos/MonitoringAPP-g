@@ -1,0 +1,151 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 2845 >>
+stream
+BT
+/F2 18 Tf 1 0 0 1 54 760 Tm (MonitoringApp Privacy Policy) Tj
+/F1 10.5 Tf 1 0 0 1 54 704 Tm (Last updated: May 29, 2026) Tj
+/F1 10.5 Tf 1 0 0 1 54 678 Tm (MonitoringApp is a personal health and task monitoring Android application developed by Marcio) Tj
+/F1 10.5 Tf 1 0 0 1 54 663 Tm (Maciel Bastos. This Privacy Policy explains how MonitoringApp handles health and fitness) Tj
+/F1 10.5 Tf 1 0 0 1 54 648 Tm (information accessed through Huawei Health Service Kit / Health Kit.) Tj
+/F2 13 Tf 1 0 0 1 54 622 Tm (Contact) Tj
+/F1 10.5 Tf 1 0 0 1 54 586 Tm (Developer: Marcio Maciel Bastos) Tj
+/F1 10.5 Tf 1 0 0 1 54 571 Tm (Contact email: marciomacielbastos@hotmail.com) Tj
+/F1 10.5 Tf 1 0 0 1 54 556 Tm (App package: br.com.marciobastos.monitoringapp) Tj
+/F2 13 Tf 1 0 0 1 54 530 Tm (Health Data We Request) Tj
+/F1 10.5 Tf 1 0 0 1 54 494 Tm (With your explicit authorization, MonitoringApp may read the following data from Huawei Health /) Tj
+/F1 10.5 Tf 1 0 0 1 54 479 Tm (Health Service Kit:) Tj
+/F1 10.5 Tf 1 0 0 1 54 453 Tm (- Step count and daily activity summary) Tj
+/F1 10.5 Tf 1 0 0 1 54 438 Tm (- Heart rate, including latest and historical readings) Tj
+/F1 10.5 Tf 1 0 0 1 54 423 Tm (- Sleep duration and sleep-related summaries) Tj
+/F1 10.5 Tf 1 0 0 1 54 408 Tm (- Blood oxygen saturation \(SpO2\)) Tj
+/F1 10.5 Tf 1 0 0 1 54 393 Tm (- Stress score) Tj
+/F1 10.5 Tf 1 0 0 1 54 378 Tm (- Body or wrist temperature, when available from the device and Huawei Health) Tj
+/F1 10.5 Tf 1 0 0 1 54 363 Tm (- Walking distance and workout or activity intensity minutes) Tj
+/F1 10.5 Tf 1 0 0 1 54 337 Tm (MonitoringApp requests read-only access for these health data categories. MonitoringApp does not) Tj
+/F1 10.5 Tf 1 0 0 1 54 322 Tm (write health data to Huawei Health for the current MVP unless a future version clearly explains) Tj
+/F1 10.5 Tf 1 0 0 1 54 307 Tm (that change and requests additional consent.) Tj
+/F2 13 Tf 1 0 0 1 54 281 Tm (Why We Use This Data) Tj
+/F1 10.5 Tf 1 0 0 1 54 245 Tm (MonitoringApp uses Health Kit data only to provide user-facing health and productivity status) Tj
+/F1 10.5 Tf 1 0 0 1 54 230 Tm (features, including:) Tj
+/F1 10.5 Tf 1 0 0 1 54 204 Tm (- Showing current or recent watch signals on the Status screen) Tj
+/F1 10.5 Tf 1 0 0 1 54 189 Tm (- Showing daily activity and wellness summaries) Tj
+/F1 10.5 Tf 1 0 0 1 54 174 Tm (- Helping the user understand energy, stress, sleep, and activity patterns) Tj
+/F1 10.5 Tf 1 0 0 1 54 159 Tm (- Supporting future scheduling decisions based on general wellness signals) Tj
+/F1 10.5 Tf 1 0 0 1 54 133 Tm (MonitoringApp does not use health data for advertising, cross-app tracking, insurance decisions,) Tj
+/F1 10.5 Tf 1 0 0 1 54 118 Tm (credit decisions, employment decisions, or sale to third parties.) Tj
+/F2 13 Tf 1 0 0 1 54 92 Tm (How Data Is Collected) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 3611 >>
+stream
+BT
+/F1 10.5 Tf 1 0 0 1 54 749 Tm (Health data is measured by the user's Huawei smartwatch or other compatible device, synced to) Tj
+/F1 10.5 Tf 1 0 0 1 54 734 Tm (Huawei Health, and then made available to MonitoringApp through Huawei Health Service Kit only) Tj
+/F1 10.5 Tf 1 0 0 1 54 719 Tm (after the user grants permission. Users may deny or revoke Health Kit permissions at any time) Tj
+/F1 10.5 Tf 1 0 0 1 54 704 Tm (through Huawei Health, HMS Core, Android settings, or applicable Huawei account settings.) Tj
+/F2 13 Tf 1 0 0 1 54 678 Tm (Where Data Is Stored) Tj
+/F1 10.5 Tf 1 0 0 1 54 642 Tm (MonitoringApp is designed as an on-device Android app. Health data displayed or cached by) Tj
+/F1 10.5 Tf 1 0 0 1 54 627 Tm (MonitoringApp is kept on the user's Android device in app-private storage. MonitoringApp does) Tj
+/F1 10.5 Tf 1 0 0 1 54 612 Tm (not currently operate its own backend server for Health Kit data.) Tj
+/F1 10.5 Tf 1 0 0 1 54 586 Tm (Huawei Health and HMS Core may process and store health data under Huawei's own terms, privacy) Tj
+/F1 10.5 Tf 1 0 0 1 54 571 Tm (notices, and user settings. Communication with Huawei services is handled by Huawei SDKs and HMS) Tj
+/F1 10.5 Tf 1 0 0 1 54 556 Tm (Core.) Tj
+/F1 10.5 Tf 1 0 0 1 54 530 Tm (Before any public production release that persists Health Kit records, MonitoringApp will use) Tj
+/F1 10.5 Tf 1 0 0 1 54 515 Tm (appropriate encryption at rest for stored health data, such as Android platform encrypted) Tj
+/F1 10.5 Tf 1 0 0 1 54 500 Tm (storage or an equivalent AES-256 based mechanism. Data transmitted through Huawei SDKs is) Tj
+/F1 10.5 Tf 1 0 0 1 54 485 Tm (handled by HMS Core over encrypted network channels.) Tj
+/F2 13 Tf 1 0 0 1 54 459 Tm (Sharing) Tj
+/F1 10.5 Tf 1 0 0 1 54 423 Tm (MonitoringApp does not sell, rent, or share Health Kit data with advertisers, data brokers,) Tj
+/F1 10.5 Tf 1 0 0 1 54 408 Tm (analytics brokers, or other third parties. Health data may be processed by Huawei Health, HMS) Tj
+/F1 10.5 Tf 1 0 0 1 54 393 Tm (Core, and Health Service Kit as necessary for the user-authorized integration.) Tj
+/F1 10.5 Tf 1 0 0 1 54 367 Tm (MonitoringApp may disclose information only if required by law or if necessary to protect the) Tj
+/F1 10.5 Tf 1 0 0 1 54 352 Tm (rights, safety, or security of the user, the developer, or the application.) Tj
+/F2 13 Tf 1 0 0 1 54 326 Tm (Retention) Tj
+/F1 10.5 Tf 1 0 0 1 54 290 Tm (MonitoringApp keeps locally stored Health Kit data only as long as needed to provide app) Tj
+/F1 10.5 Tf 1 0 0 1 54 275 Tm (functionality, and no longer than 12 months unless the user chooses to keep it longer in a) Tj
+/F1 10.5 Tf 1 0 0 1 54 260 Tm (future version. Users can delete local app data by using the app's reset/delete controls when) Tj
+/F1 10.5 Tf 1 0 0 1 54 245 Tm (available or by clearing app storage/uninstalling the app from Android settings.) Tj
+/F1 10.5 Tf 1 0 0 1 54 219 Tm (Revoking Huawei Health permissions stops future access by MonitoringApp but may not delete data) Tj
+/F1 10.5 Tf 1 0 0 1 54 204 Tm (already stored by Huawei Health. Users should manage Huawei Health data directly in Huawei) Tj
+/F1 10.5 Tf 1 0 0 1 54 189 Tm (Health or Huawei account settings.) Tj
+/F2 13 Tf 1 0 0 1 54 163 Tm (User Choices and Rights) Tj
+/F1 10.5 Tf 1 0 0 1 54 127 Tm (Depending on applicable law, including the Brazilian LGPD where applicable, users may request) Tj
+/F1 10.5 Tf 1 0 0 1 54 112 Tm (access, correction, deletion, portability, or information about the processing of their personal) Tj
+/F1 10.5 Tf 1 0 0 1 54 97 Tm (data by contacting the developer email above.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2537 >>
+stream
+BT
+/F1 10.5 Tf 1 0 0 1 54 760 Tm (Users can also:) Tj
+/F1 10.5 Tf 1 0 0 1 54 734 Tm (- Grant or deny Health Kit permissions during authorization) Tj
+/F1 10.5 Tf 1 0 0 1 54 719 Tm (- Revoke permissions later through Huawei Health, HMS Core, or Android settings) Tj
+/F1 10.5 Tf 1 0 0 1 54 704 Tm (- Delete local MonitoringApp data by clearing app storage or uninstalling the app) Tj
+/F1 10.5 Tf 1 0 0 1 54 689 Tm (- Stop using the app at any time) Tj
+/F2 13 Tf 1 0 0 1 54 663 Tm (Children) Tj
+/F1 10.5 Tf 1 0 0 1 54 627 Tm (MonitoringApp is not intended for children under 18. The current MVP is intended for personal) Tj
+/F1 10.5 Tf 1 0 0 1 54 612 Tm (and family testing by adults. The app does not knowingly collect data from minors.) Tj
+/F2 13 Tf 1 0 0 1 54 586 Tm (Medical Disclaimer) Tj
+/F1 10.5 Tf 1 0 0 1 54 550 Tm (MonitoringApp is not a medical device. It does not diagnose, treat, prevent, monitor, or predict) Tj
+/F1 10.5 Tf 1 0 0 1 54 535 Tm (diseases or medical conditions. Health signals shown in the app are for general wellness and) Tj
+/F1 10.5 Tf 1 0 0 1 54 520 Tm (personal productivity awareness only. Users should consult qualified healthcare professionals) Tj
+/F1 10.5 Tf 1 0 0 1 54 505 Tm (for medical advice.) Tj
+/F2 13 Tf 1 0 0 1 54 479 Tm (Security) Tj
+/F1 10.5 Tf 1 0 0 1 54 443 Tm (MonitoringApp applies data minimization and requests only the Health Kit permissions needed for) Tj
+/F1 10.5 Tf 1 0 0 1 54 428 Tm (the app's stated features. The app does not use Health Kit data for advertising or profiling.) Tj
+/F1 10.5 Tf 1 0 0 1 54 413 Tm (Access to health data requires explicit user authorization through Huawei Health Service Kit.) Tj
+/F1 10.5 Tf 1 0 0 1 54 387 Tm (No system is completely secure. If the developer becomes aware of a data incident affecting) Tj
+/F1 10.5 Tf 1 0 0 1 54 372 Tm (Health Kit data, the developer will take reasonable steps to investigate, mitigate, notify) Tj
+/F1 10.5 Tf 1 0 0 1 54 357 Tm (affected users where required, and notify Huawei where required by Huawei Health Kit policies.) Tj
+/F2 13 Tf 1 0 0 1 54 331 Tm (Changes to This Policy) Tj
+/F1 10.5 Tf 1 0 0 1 54 295 Tm (This policy may be updated as MonitoringApp evolves, especially if new Health Kit data types,) Tj
+/F1 10.5 Tf 1 0 0 1 54 280 Tm (storage behavior, backend services, or sharing practices are added. Material changes will be) Tj
+/F1 10.5 Tf 1 0 0 1 54 265 Tm (reflected in an updated policy document and, where required, additional user consent will be) Tj
+/F1 10.5 Tf 1 0 0 1 54 250 Tm (requested.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [6 0 R 7 0 R 8 0 R] /Count 3 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000009 00000 n 
+0000000079 00000 n 
+0000000154 00000 n 
+0000003051 00000 n 
+0000006714 00000 n 
+0000009303 00000 n 
+0000009439 00000 n 
+0000009575 00000 n 
+0000009711 00000 n 
+0000009780 00000 n 
+trailer
+<< /Size 11 /Root 10 0 R >>
+startxref
+9830
+%%EOF
